@@ -1,4 +1,4 @@
-package me.light.demo.ImplByTread;
+package me.light.demo.thread.basic;
 
 public class ThreadExample {
 

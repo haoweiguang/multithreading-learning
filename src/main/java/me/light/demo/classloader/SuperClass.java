@@ -1,4 +1,4 @@
-package me.light.demo.classLoader;
+package me.light.demo.classloader;
 
 /**
  * 被动使用类字段演示一：

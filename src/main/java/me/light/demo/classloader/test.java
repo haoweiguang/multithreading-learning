@@ -1,4 +1,4 @@
-package me.light.demo.classLoader;
+package me.light.demo.classloader;
 
 /**
  * 类加载器

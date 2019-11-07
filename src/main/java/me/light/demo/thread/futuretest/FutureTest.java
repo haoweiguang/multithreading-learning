@@ -1,4 +1,4 @@
-package me.light.demo.thread.FutureTest;
+package me.light.demo.thread.futuretest;
 
 import java.io.*;
 import java.util.*;

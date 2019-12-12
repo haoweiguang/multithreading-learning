@@ -14,6 +14,6 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class test {
     public static void main(String[] args) {
         ApplicationContext context = new ClassPathXmlApplicationContext("knight.xml");
-        context.getBean("test");
+        context.getBean("HelloWorldService");
     }
 }

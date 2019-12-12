@@ -1,4 +1,4 @@
-package me.light.demo.threadpool;
+package me.light.demo.thread.threadpool;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutorService;

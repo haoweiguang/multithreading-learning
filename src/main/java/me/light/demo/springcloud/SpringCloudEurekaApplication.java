@@ -1,4 +1,4 @@
-package me.light.demo.cloud;
+package me.light.demo.springcloud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

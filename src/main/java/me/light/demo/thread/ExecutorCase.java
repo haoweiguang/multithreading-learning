@@ -1,4 +1,4 @@
-package me.light.demo;
+package me.light.demo.thread;
 
 import java.util.HashMap;
 import java.util.concurrent.Executor;

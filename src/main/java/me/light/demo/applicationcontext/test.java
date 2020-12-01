@@ -1,4 +1,4 @@
-package me.light.demo.applicationcontextdemo;
+package me.light.demo.applicationcontext;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.ApplicationContext;

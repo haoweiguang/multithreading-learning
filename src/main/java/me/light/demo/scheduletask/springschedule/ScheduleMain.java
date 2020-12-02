@@ -6,7 +6,7 @@ package me.light.demo.springschedule;
  */
 public class ScheduleMain {
     public static void main(String[] args) {
-        ConfigWatch watch = new ConfigWatch();
+        me.light.demo.springschedule.ConfigWatch watch = new me.light.demo.springschedule.ConfigWatch();
         watch.start();
     }
 }

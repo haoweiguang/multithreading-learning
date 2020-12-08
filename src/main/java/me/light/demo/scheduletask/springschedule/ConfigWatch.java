@@ -1,4 +1,4 @@
-package me.light.demo.springschedule;
+package me.light.demo.scheduletask.springschedule;
 
 import org.springframework.scheduling.TaskScheduler;
 import org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler;

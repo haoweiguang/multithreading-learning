@@ -1,4 +1,4 @@
-package me.light.demo.springschedule;
+package me.light.demo.scheduletask.springschedule;
 
 /**
  * @author light.hao
@@ -6,7 +6,7 @@ package me.light.demo.springschedule;
  */
 public class ScheduleMain {
     public static void main(String[] args) {
-        me.light.demo.springschedule.ConfigWatch watch = new me.light.demo.springschedule.ConfigWatch();
+        ConfigWatch watch = new ConfigWatch();
         watch.start();
     }
 }
